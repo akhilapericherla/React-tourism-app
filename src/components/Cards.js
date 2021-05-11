@@ -14,12 +14,12 @@ function Cards() {
             <div className='cards__container'>
                 <div className='cards__wrapper'>
                     <ul className='cards__items'>
-                        <CardItem src={imageNine} alt="Waterfall image"
+                        <CardItem src={imageNine} alt="Waterfall"
                             text='Explore the hidden waterfall deep inside the Amazon Jungle'
                             label='Adventure'
                             path='/services'
                         />
-                        <CardItem src={imageTwo} alt="Bluewater image"
+                        <CardItem src={imageTwo} alt="Bluewater"
                             text='Travel through the Islands of Bali in a Private Cruise'
                             label='Luxury'
                             path='/services'
@@ -27,19 +27,19 @@ function Cards() {
                     </ul>
 
                     <ul className='cards__items'>
-                        <CardItem src={imageThree} alt="Waterfall image" //src='assets/images/img-3.jpg'
+                        <CardItem src={imageThree} alt="Boat" //src='assets/images/img-3.jpg'
                             text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
                             label='Mystery'
                             path='/services'
                         />
 
-                        <CardItem src={imageFour} alt="Island image"
+                        <CardItem src={imageFour} alt="Football"
                             src='assets/images/img-4.jpg'
                             text='Experience Football on Top of the Himilayan Mountains'
                             label='Adventure'
                             path='/products'
                         />
-                        <CardItem src={imageEight} alt="Eight image"
+                        <CardItem src={imageEight} alt="Desert"
                             text='Ride through the Sahara Desert on a guided camel tour'
                             label='Adrenaline'
                             path='/sign-up'
