@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-tourism-app/static/css/main.db18698d.chunk.css",
-    "main.js": "/React-tourism-app/static/js/main.2d5db4a3.chunk.js",
-    "main.js.map": "/React-tourism-app/static/js/main.2d5db4a3.chunk.js.map",
+    "main.js": "/React-tourism-app/static/js/main.4f350fec.chunk.js",
+    "main.js.map": "/React-tourism-app/static/js/main.4f350fec.chunk.js.map",
     "runtime-main.js": "/React-tourism-app/static/js/runtime-main.54d9cfd7.js",
     "runtime-main.js.map": "/React-tourism-app/static/js/runtime-main.54d9cfd7.js.map",
     "static/js/2.711bee06.chunk.js": "/React-tourism-app/static/js/2.711bee06.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.54d9cfd7.js",
     "static/js/2.711bee06.chunk.js",
     "static/css/main.db18698d.chunk.css",
-    "static/js/main.2d5db4a3.chunk.js"
+    "static/js/main.4f350fec.chunk.js"
   ]
 }
