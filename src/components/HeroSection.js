@@ -7,7 +7,7 @@ import './HeroSection.css';
 function HeroSection() {
     return (
         <div className='hero-container'>
-            <video src="assets/videos/video-2.mp4" autoPlay loop muted />
+            <video src="/React-tourism-app/assets/videos/video-2.mp4" autoPlay loop muted />
             <h1>ADVENTURE AWAITS</h1>
             <p>what are you waiting for?</p>
             <div className='hero-btns'>
